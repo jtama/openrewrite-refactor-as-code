@@ -4,12 +4,8 @@
 [.fragment]
 Ha hahahahahahaha hahaha haha hhahhaha.
 
-[.lesson]
-=== !
-
-- ✅ Vue d'ensemble du véhicule
-- ✅ Savoir lire une carte
-- ✅ Savoir démarrer le véhicule
-- ✅ Savoir conduire en ville
-- ✅ Savoir drifter sur la glace
+[.notes]
+--
+Pour le drift il va falloir attendre!
+--
 
